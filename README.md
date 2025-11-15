@@ -1,1 +1,1 @@
-# Mini_Projects
+# Python_Mini_Projects
